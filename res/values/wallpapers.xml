@@ -25,16 +25,30 @@
         <item>wallpaper_default_red</item>
         <item>wallpaper_default_white</item>
         <item>wallpaper_default_yellow</item>
+        <item>wallpaper_google_spectrum</item>
+        <item>wallpaper_google_spotlight</item>
+        <item>wallpaper_cm_blueicemodcircle</item>
+        <item>wallpaper_cm_slantstyle</item>
+        <item>wallpaper_cm_colorpass</item>
+        <item>wallpaper_cm_shelfhome</item>
+        <item>wallpaper_cm_ventana</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>Default Blue :: Altair ROM</item>
-        <item>Default Green :: Altair ROM</item>
-        <item>Default Magenta :: Altair ROM</item>
-        <item>Default Orange :: Altair ROM</item>
-        <item>Default Pink :: Altair ROM</item>
-        <item>Default Red :: Altair ROM</item>
-        <item>Default White :: Altair ROM</item>
-        <item>Default Yellow :: Altair ROM</item>
+        <item>Default Blue</item>
+        <item>Default Green</item>
+        <item>Default Magenta</item>
+        <item>Default Orange</item>
+        <item>Default Pink</item>
+        <item>Default Red</item>
+        <item>Default White</item>
+        <item>Default Yellow</item>
+        <item>Spectrum - Google</item>
+        <item>Spotlight - Google</item>
+        <item>Blue Ice w. ModCircle - Henry Mason</item>
+        <item>Slantstyle - Asher Simonds</item>
+        <item>Color Pass - Dave Kover</item>
+        <item>Shelf Home - Dave Kover</item>
+        <item>Ventana - Dave Kover</item>
     </string-array>
 </resources>
